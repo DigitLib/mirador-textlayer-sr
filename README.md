@@ -1,9 +1,9 @@
-# mirador-textoverlay
+# mirador-textoverlay-image-tools
 
 [![npm package][npm-badge]][npm]
 [![required Mirador version][mirador-badge]][mirador]
 
-## NOTE: This is a fork from https://github.com/sauterl/mirador-textoverlay used for NuxtJs integration and image-tool added.
+## NOTE: This is a fork from https://github.com/sauterl/mirador-textoverlay used for NuxtJs integration and image-tools added.
 
 **A Mirador 3 plugin to display a selectable text overlay based on OCR or transcriptions.**
 
